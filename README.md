@@ -58,13 +58,13 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your-firebase-app-id
 
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your-firebase-measurement-id
   
-
---
 4.Start the development
- npm run dev
-5.Open the app in your browser:
-http://localhost:3000
 
+ npm run dev
+ 
+5.Open the app in your browser:
+
+http://localhost:3000
 
 1.Sign up page:-Allows users to create an account and register for the platform.         
 ![WhatsApp Image 2025-04-30 at 15 11 11_9e256be0](https://github.com/user-attachments/assets/60c9013e-4054-4f71-8753-7f352c7be07a)
