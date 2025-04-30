@@ -1,4 +1,6 @@
-# AI Mock Interviews 🧠💼
+# AI Mock Interviews 🧠💼  
+
+Live Demo https://ai-mock-interviews-kvgpegzx0-edlakoushiks-projects.vercel.app/
 
 AI Mock Interviews is a modern, AI-powered web application designed to help users prepare for job interviews. The app generates tailored interview questions based on the user's job role, experience level, and technical stack. It provides a clean, professional UI with features like dark mode, real-time feedback, and user-specific dashboards.
 
