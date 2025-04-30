@@ -47,6 +47,8 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
 NEXT_PUBLIC_FIREBASE_APP_ID=your-firebase-app-id
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your-firebase-measurement-id
+  
+
 --
 4.Start the development
  npm run dev
