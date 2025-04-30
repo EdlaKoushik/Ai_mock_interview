@@ -32,9 +32,14 @@ AI Mock Interviews is a modern, AI-powered web application designed to help user
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/ai-mock-interviews.git
-   cd ai-mock-interviews       ![WhatsApp Image 2025-04-30 at 15 11 11_e157b7cf](https://github.com/user-attachments/assets/ff37caee-493a-4afd-a489-d0b7054a9b92)  ![WhatsApp Image 2025-04-30 at 15 11 51_6ad4eeef](https://github.com/user-attachments/assets/f501554e-a928-4e2e-8349-03edb098bd40)    ![WhatsApp Image 2025-04-30 at 15 12 37_7fea8832](https://github.com/user-attachments/assets/8e158456-ea47-43af-b490-90b3f1137708)      ![WhatsApp Image 2025-04-30 at 15 13 26_8f2ca48d](https://github.com/user-attachments/assets/693b12a1-9285-4ffb-9bb2-4d43607065fd)    ![WhatsApp Image 2025-04-30 at 15 14 32_30956a98](https://github.com/user-attachments/assets/e94e5761-1c51-4513-8c0f-ac33d9456835)
+   cd ai-mock-interviews      
+![WhatsApp Image 2025-04-30 at 15 11 11_9e256be0](https://github.com/user-attachments/assets/60c9013e-4054-4f71-8753-7f352c7be07a)
+![WhatsApp Image 2025-04-30 at 15 11 51_50750a49](https://github.com/user-attachments/assets/8f743ed6-e276-4e17-8890-d0fc84bf76bd)
+![WhatsApp Image 2025-04-30 at 15 12 37_79ffe2f0](https://github.com/user-attachments/assets/8f208e90-bfb3-4ed9-8af6-b0e87f50de96)
 
+![WhatsApp Image 2025-04-30 at 15 12 37_79ffe2f0](https://github.com/user-attachments/assets/c0111943-6b6a-477d-b2dc-f409402abab7)
 
+![WhatsApp Image 2025-04-30 at 15 14 32_5272de7a](https://github.com/user-attachments/assets/5f8e3e60-7550-488e-b1fb-0254b90c320a)
 
 
 
