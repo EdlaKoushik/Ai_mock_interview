@@ -37,15 +37,25 @@ AI Mock Interviews is a modern, AI-powered web application designed to help user
   npm install
   
 3.Set up environment variables:
-   1.Create a .env.local file in the root directory.
-   2.Add the following variables:
+
+1.Create a .env.local file in the root directory.
+
+2.Add the following variables:
+
 GOOGLE_GENERATIVE_AI_API_KEY=your-google-api-key
+
 NEXT_PUBLIC_FIREBASE_API_KEY=your-firebase-api-key
+
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
+
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-firebase-project-id
+
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
+
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
+
 NEXT_PUBLIC_FIREBASE_APP_ID=your-firebase-app-id
+
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your-firebase-measurement-id
   
 
