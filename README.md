@@ -77,7 +77,8 @@ http://localhost:3000
 
 4.dashboard/home:- Displays saved interviews, user activity, and options to generate new interviews.
 
-![WhatsApp Image 2025-04-30 at 15 12 37_79ffe2f0](https://github.com/user-attachments/assets/c0111943-6b6a-477d-b2dc-f409402abab7)
+![Screenshot (1518)](https://github.com/user-attachments/assets/81273aee-9f88-4ab7-b842-017411e71eb6)
+
 
 5.Feedback page:-Collects user feedback on generated interview questions or platform experience.
 
