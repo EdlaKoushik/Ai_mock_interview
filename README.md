@@ -2,6 +2,11 @@
 
 Live Demo:-https://ai-mock-interviews-liart.vercel.app/
 
+Group:-
+1.KoushikEdla
+2.GowthamOja
+3.Venu Konda
+
 AI Mock Interviews is a modern, AI-powered web application designed to help users prepare for job interviews. The app generates tailored interview questions based on the user's job role, experience level, and technical stack. It provides a clean, professional UI with features like dark mode, real-time feedback, and user-specific dashboards.
 
 ---
